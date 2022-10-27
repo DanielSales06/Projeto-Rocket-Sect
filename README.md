@@ -4,10 +4,10 @@
 
 ## 🗨️ Sobre o Projeto 
 
-   Projeto básico de uma página 🖥️ Desktop feito em conjunto com a Rocketseat.
+   Projeto básico de uma página 💻 Desktop, feito em conjunto com a Rocketseat 🚀.
 
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML
 - CSS
-- GIT e GitHub
+- GitHub
